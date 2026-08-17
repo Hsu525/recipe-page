@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 * Solution URL: [View my solution](YOUR_FRONTEND_MENTOR_SOLUTION_URL)
-* Live Site URL: [View live site](YOUR_LIVE_SITE_URL)
+* Live Site URL: [View live site](https://hsu525.github.io/recipe-page/)
 
 ## My process
 
